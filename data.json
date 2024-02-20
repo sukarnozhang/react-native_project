@@ -1,0 +1,19 @@
+[{
+    "id": "ID of FIrst Place",
+    "latitude":25.774, 
+    "longitude":-80.19
+  },
+  {
+    "id": "ID of Second Place",
+    "latitude":18.466,
+    "longitude":-66.118
+  },{
+    "id": "ID of third Place",
+    "latitude":32.321,
+    "longitude":-64.757
+  },
+  {
+    "id": "ID of fourth Place",
+    "latitude":18.466,
+    "longitude":-66.118
+  }]
